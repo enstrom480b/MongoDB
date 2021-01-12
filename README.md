@@ -1,1 +1,1 @@
-# MongoDB
+MongoDB connection sample code
